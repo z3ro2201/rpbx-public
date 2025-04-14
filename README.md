@@ -1,2 +1,46 @@
-# rpbx-public
-Railplanet Private Branch eXchange
+# 🚉 RPBX (R Private Branch eXchange)
+
+**응대를 위한 ARS 시스템**입니다.  
+IVR(Interactive Voice Response)을 기반으로, 통화 흐름을 설정하고, 수신/발신 로그를 관리할 수 있는 내부 전용 솔루션입니다.
+
+---
+
+## 🔧 기술 스택
+
+- **Frontend**: Next.js (App Router, TailwindCSS, MUI)
+- **Database**: MySQL
+- **통합 연동**: PJSIP
+
+---
+
+## 📌 주요 기능
+
+- ✅ ARS 요일/시간 설정
+- ✅ 설정된 스케줄 기반 라우팅
+- ✅ 관리자 전용 설정 페이지
+
+---
+
+## 🔒 프로젝트 상태
+
+- **비공개 프로젝트**  
+- 내부 전용 ARS 시스템으로, 외부 배포/공개 예정은 없습니다.
+
+> 🔐 실제 소스코드는 Private Repository로 관리되고 있습니다.
+
+---
+
+## 📁 이 저장소는?
+
+이 저장소는 `R PBX` 프로젝트의 **공개용 README 전용 리포지토리**입니다.  
+실제 코드와 동작은 비공개 저장소에서 관리되고 있으며, 해당 정보는 요청 또는 권한 부여 없이는 접근하실 수 없습니다.
+
+---
+
+## 🗓️ 프로젝트 정보
+
+- 개발 시작: `2024년 3월`
+- 담당 팀: 기술팀
+- 상태: **운영 중 / 기능 고도화 진행 중**
+
+---
