@@ -10,6 +10,8 @@ IVR(Interactive Voice Response)을 기반으로, 통화 흐름을 설정하고, 
 - **Frontend**: Next.js (App Router, TailwindCSS, MUI)
 - **Database**: MySQL
 - **통합 연동**: PJSIP
+- **Infra**: PM2  
+- **Hosting**: Ubuntu
 
 ---
 
